@@ -1,6 +1,6 @@
-# Ejercicio 1
+# Ejercicio 2
 
-Acá tienen que ir las instrucciones de cómo ejecutar el código del Ejercicio 1. Ej:
+Acá tienen que ir las instrucciones de cómo ejecutar el código del Ejercicio 2. Ej:
 
 Para ejecutar el código, ingresar el siguiente comando:
 ```
